@@ -338,7 +338,7 @@ export const INITIAL_ORGANIZER_USER: User = {
 
 export const INITIAL_RESIDENT_USER: User = {
   id: "u_user_1",
-  name: "Ramesh Jadhav",
+  name: "Sadique Khan",
   email: "ramesh.jadhav@example.com",
   phone: "9876543210",
   role: "user",
